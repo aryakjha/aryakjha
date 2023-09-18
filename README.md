@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryakjha
-- 👀 I’m interested in MERN full stack Development.
+- 👀 I’m interested in  full stack Development : Java , Spring Boot , Angular.
 - 🌱 I also do problem solving using C/C++/java .Below are my coding profiles. 
 
           MyLeetcode    :      https://leetcode.com/aryakishor_700/ , 
@@ -7,7 +7,7 @@
           MyGFG         :      https://auth.geeksforgeeks.org/user/aryakishor700/ 
           MyCodeforces  :      https://codeforces.com/profile/Arya_Jha
           
-- 💞️ .Other techStack I know - Java , Oracle SQL , PL/SQL , Oracle EBS ERP Module , Low Level Design , Computer Networks.
+- 💞️ . techStack I know - C/C++ , Java ,Spring Boot, Angular17 ,React, MySql, Oracle SQL ,Low Level Design , Computer Networks.
 - 📫 How to reach me 
 -   email - aryakishor700@gmail.com
 
